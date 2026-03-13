@@ -1,0 +1,5 @@
+Algorithme,Dist_Moyenne_Permis,Dist_Moyenne_Falsifie,Seuil_Optimal_Tau,Similarite_Minimale_%,F1_Score,Recall
+aHash,0.08,19.51,2,96.88,0.9901,0.9975
+pHash,0.2,17.32,2,96.88,0.9913,0.995
+dHash,0.39,17.14,3,95.31,0.9851,0.9925
+wHash,0.09,18.85,0,100.0,0.9695,0.955
